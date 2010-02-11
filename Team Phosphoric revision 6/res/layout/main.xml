@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/main" android:background="@drawable/periodictable">
+
+
+<Button
+android:layout_y="86px" android:layout_x="78px" android:layout_height="91px" android:layout_width="236px" android:id="@+id/transmetbutton" android:clickable="true" android:focusable="true" android:visibility="visible" android:background="@drawable/tmpic">
+</Button>
+
+</AbsoluteLayout>
