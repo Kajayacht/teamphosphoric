@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:layout_width="fill_parent"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+	android:background="@drawable/background" android:id="@+id/left">
+
+
+	<Button android:layout_width="77px" android:layout_height="30px"
+		android:text="Zoom Out" android:layout_x="0px" android:layout_y="2px"
+		android:id="@+id/zoomout" android:background="@drawable/b2">
+	</Button>
+
+	<Button android:layout_height="40dip" android:layout_width="40dip"
+		android:text="H" android:id="@+id/H" android:background="@drawable/hydrogen" android:layout_x="100dip" android:layout_y="110dip"></Button>
+	<Button android:layout_width="40dip" android:layout_height="40dip"
+		android:layout_x="175dip" android:layout_y="10dip" android:text="Li"
+		android:id="@+id/Li" android:background="@drawable/alkali"></Button>
+	<Button android:layout_height="40dip" android:layout_width="40dip"
+		android:layout_x="175dip" android:layout_y="50dip" android:id="@+id/Na"
+		android:text="Na" android:background="@drawable/alkali"></Button>
+	<Button android:layout_x="175dip" android:layout_height="40dip"
+		android:layout_width="40dip" android:layout_y="90dip" android:text="K"
+		android:id="@+id/K" android:background="@drawable/alkali"></Button>
+	<Button android:layout_x="175dip" android:layout_height="40dip"
+		android:layout_width="40dip" android:layout_y="130dip" android:id="@+id/Rb"
+		android:text="Rb" android:background="@drawable/alkali"></Button>
+	<Button android:layout_height="40dip" android:layout_width="40dip"
+		android:layout_x="175dip" android:layout_y="210dip" android:id="@+id/Fr"
+		android:text="Fr" android:background="@drawable/alkali"></Button>
+	<Button android:layout_height="40dip" android:layout_width="40dip"
+		android:layout_x="175dip" android:layout_y="170dip" android:text="Cs"
+		android:id="@+id/Cs" android:background="@drawable/alkali"></Button>
+<Button android:layout_x="232dip" android:background="@drawable/alkaliearth" android:id="@+id/Be" android:text="Be" android:layout_height="40dip" android:layout_width="40dip" android:layout_y="10dip"></Button>
+<Button android:layout_width="40dip" android:layout_height="40dip" android:layout_x="232dip" android:layout_y="90dip" android:background="@drawable/alkaliearth" android:id="@+id/Ca" android:text="Ca"></Button>
+<Button android:layout_height="40dip" android:layout_width="40dip" android:layout_x="232dip" android:layout_y="130dip" android:text="Sr" android:id="@+id/Sr" android:background="@drawable/alkaliearth"></Button>
+<Button android:layout_y="170dip" android:layout_x="232dip" android:layout_height="40dip" android:layout_width="40dip" android:background="@drawable/alkaliearth" android:text="Ba" android:id="@+id/Ba"></Button>
+<Button android:layout_y="210dip" android:layout_x="232dip" android:layout_width="40dip" android:layout_height="40dip" android:background="@drawable/alkaliearth" android:id="@+id/Ra" android:text="Ra"></Button>
+<Button android:layout_x="232dip" android:layout_height="40dip" android:layout_width="40dip" android:layout_y="50dip" android:text="Mg" android:id="@+id/Mg" android:background="@drawable/alkaliearth"></Button>
+</AbsoluteLayout>
