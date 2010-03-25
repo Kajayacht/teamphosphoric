@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:background="@drawable/background" android:id="@+id/transitionmetals">
+
+<Button
+android:id="@+id/Nb"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Nb"
+android:layout_x="120px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/V"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="V"
+android:layout_x="120px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Mo"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Mo"
+android:layout_x="160px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Cr"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Cr"
+android:layout_x="160px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Mn"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Mn"
+android:layout_x="200px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ru"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ru"
+android:layout_x="240px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Fe"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Fe"
+android:layout_x="240px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Co"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Co"
+android:layout_x="280px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Pd"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Pd"
+android:layout_x="320px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ni"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ni"
+android:layout_x="320px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ag"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ag"
+android:layout_x="360px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Cu"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Cu"
+android:layout_x="360px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Rh"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Rh"
+android:layout_x="280px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Cd"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Cd"
+android:layout_x="400px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Tc"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Tc"
+android:layout_x="200px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Zn"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Zn"
+android:layout_x="400px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Hf"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Hf"
+android:layout_x="80px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Rf"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Rf"
+android:layout_x="80px"
+android:layout_y="172px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ir"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ir"
+android:layout_x="280px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Hg"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Hg"
+android:layout_x="400px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ta"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ta"
+android:layout_x="120px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Os"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Os"
+android:layout_x="240px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/W"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="W"
+android:layout_x="160px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Au"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Au"
+android:layout_x="360px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Pt"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Pt"
+android:layout_x="320px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Re"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Re"
+android:layout_x="200px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="320px"
+android:layout_y="172px" android:id="@+id/Ds" android:text="Ds" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="360px"
+android:layout_y="172px" android:id="@+id/Rg" android:text="Rg" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="400px"
+android:layout_y="172px" android:id="@+id/Uub" android:text="Uub" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="200px"
+android:layout_y="172px" android:id="@+id/Bh" android:text="Bh" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ha"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ha"
+android:layout_x="120px"
+android:layout_y="172px" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="160px"
+android:layout_y="172px" android:text="Sg" android:id="@+id/Sg" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="280px"
+android:layout_y="172px" android:id="@+id/Mt" android:text="Mt" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="40px"
+android:layout_height="40px"
+android:layout_x="240px"
+android:layout_y="172px" android:text="Hs" android:id="@+id/Hs" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ti"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ti"
+android:layout_x="80px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Ac"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Ac"
+android:layout_x="40px"
+android:layout_y="172px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Zr"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Zr"
+android:layout_x="80px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Sc"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Sc"
+android:layout_x="40px"
+android:layout_y="52px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/Y"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="Y"
+android:layout_x="40px"
+android:layout_y="92px" android:background="@drawable/btm">
+</Button>
+<Button
+android:id="@+id/La"
+android:layout_width="40px"
+android:layout_height="40px"
+android:text="La"
+android:layout_x="40px"
+android:layout_y="132px" android:background="@drawable/btm">
+</Button>
+<Button
+android:layout_width="77px"
+android:layout_height="30px"
+android:text="Zoom Out"
+android:layout_x="0px"
+android:layout_y="2px"
+android:id="@+id/zoomout" android:background="@drawable/bzoom">
+</Button>
+<TextView
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Transition Metals"
+android:layout_y="12px" android:layout_x="190px" android:id="@+id/TMtext">
+</TextView>
+<TextView android:layout_width="wrap_content" android:layout_y="232dip" android:layout_height="wrap_content" android:layout_x="145dip" android:id="@+id/Text"></TextView>
+
+</AbsoluteLayout>
