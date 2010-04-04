@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<el>
+	<name>Hydrogen</name>
+	<sy>H</sy>
+	<an>1</an>
+	<aw></aw>
+	<roomstate></roomstate>
+	<classification></classification>
+	<density></density>
+	<meltp></meltp>
+	<boilp></boilp>
+	<critp></critp>
+	<abundance></abundance>
+	<ionizationenergy></ionizationenergy>
+	<electronspshell></electronspshell>
+	
+</el>
