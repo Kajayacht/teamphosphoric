@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent"
+	android:layout_height="fill_parent" xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/main" android:background="@drawable/background">
+
+
+	<Button android:id="@+id/transmetbutton" android:background="@drawable/middleside"
+		android:layout_height="91dip" android:layout_width="232dip"
+		android:layout_x="78dip" android:layout_y="86dip"
+		android:layout_marginTop="105dip" android:layout_marginLeft="79dip">
+	</Button>
+
+	<Button android:id="@+id/alkalinebutton" android:background="@drawable/leftside"
+		android:layout_x="34dip" android:layout_width="44dip"
+		android:layout_y="24dip" android:layout_height="153dip"
+		android:layout_marginLeft="35dip" android:layout_marginTop="43dip"></Button>
+	<Button android:layout_height="wrap_content" android:id="@+id/bottombutton"
+		android:background="@drawable/bottomside" android:layout_x="110dip"
+		android:layout_y="182dip" android:layout_width="313dip"
+		android:layout_marginTop="202dip" android:layout_marginLeft="110dip"></Button>
+
+	<Button android:background="@drawable/rightside"
+		android:layout_x="311dip" android:layout_y="23dip"
+		android:layout_width="135dip" android:layout_height="154dip"
+		android:id="@+id/rightbutton" android:layout_marginLeft="311dip"
+		android:layout_marginTop="42dip"></Button>
+
+
+
+	<AutoCompleteTextView android:textSize="10sp"
+		android:layout_width="90dip" android:id="@+id/search"
+		android:layout_height="40dip" android:layout_y="2dip"
+		android:layout_x="300dip" android:layout_marginLeft="300dip"
+		android:layout_marginTop="5dip"></AutoCompleteTextView>
+	<Button android:layout_x="386dip" android:layout_y="2dip"
+		android:layout_height="40dip" android:id="@+id/go" android:text="Go"
+		android:layout_width="40dip" android:layout_marginTop="5dip"
+		android:layout_marginLeft="386dip"></Button>
+</RelativeLayout>
